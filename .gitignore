@@ -46,6 +46,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+Debug/
+Release/
 
 # External tool builders
 .externalToolBuilders/
