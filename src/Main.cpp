@@ -1,10 +1,8 @@
-#include "Graphics.h"
+#include "GameManager.h"
 
 int main(int argc, const char* argv[])
 {
-	Graphics graphics;
-	while (true) {
+	GameManager game;
 
-	}
 	return 0;
 }
